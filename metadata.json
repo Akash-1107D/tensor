@@ -1,0 +1,6 @@
+{
+  "name": "Rural Health Symptom Triage Assistant",
+  "description": "AI-Powered Multilingual Symptom Triage System for Rural Healthcare. Allows patients to describe symptoms in their local language and provides triage recommendations, first-aid guidance, and facility suggestions.",
+  "requestFramePermissions": ["microphone"],
+  "majorCapabilities": []
+}
